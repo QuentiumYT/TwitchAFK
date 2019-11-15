@@ -12,11 +12,11 @@
 >#### Allows you to stay AFK on Twitch without getting idle by sending a random message on a certain time. (initially created for CSGO majors for souvenir packages)
 >###### Once you click the start button, you will have 15 seconds to click on the twitch chat section (place the cursor on it) and wait to see a random message appearing.
 <br>
-![](https://quentium.fr/programs/Github/TwitchAFK.gif)
+<p align="center"><img src="https://quentium.fr/programs/Github/TwitchAFK.gif"></p>
 
 ## 📥 Installation
 
-- Download the source code [here](https://github.com/QuentiumYT/TwitchAFK/archive/master.zip) and run `TwitchAFK.pyw` on your computer (you will need socket, platform, psutil, wmi and ctypes modules)
+- Download the source code [here](https://github.com/QuentiumYT/TwitchAFK/archive/master.zip) and run `TwitchAFK.pyw` on your computer (you will need pynput module)
 - Download the 64bits compiled executable [here](https://quentium.fr/download.php?file=TwitchAFK.exe)!
 - Download the 32bits compiled executable [here](https://quentium.fr/download.php?file=TwitchAFK-32.exe)!
 
