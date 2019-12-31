@@ -1,5 +1,5 @@
 [![Website](https://quentium.fr/programs/Github/website.svg)](https://quentium.fr/)&nbsp;
-[![Donate](https://quentium.fr/programs/Github/donate.svg)](https://www.paypal.me/QLienhardt/1)&nbsp;
+[![Donate](https://quentium.fr/programs/Github/donate.svg)](https://www.paypal.me/QuentiumYT/1)&nbsp;
 [![Contributions](https://quentium.fr/programs/Github/contributions.svg)](https://github.com/QuentiumYT/TwitchAFK)&nbsp;
 [![Tested on Python 3.7](https://quentium.fr/programs/Github/python.svg)](https://www.python.org/downloads)&nbsp;
 [![License](https://quentium.fr/programs/Github/mit.svg)](https://github.com/QuentiumYT/TwitchAFK/blob/master/LICENSE)&nbsp;
@@ -10,8 +10,7 @@
 # ✨ TwitchAFK
 
 >#### Allows you to stay AFK on Twitch without getting idle by sending a random message on a certain time. (initially created for CSGO majors for souvenir packages)
->###### Once you click the start button, you will have 15 seconds to click on the twitch chat section (place the cursor on it) and wait to see a random message appearing.
-<br>
+>###### Once you click the start button, you will have 15 seconds to click on the twitch chat section (place the cursor on it) and wait to see a random message appearingbash
 <p align="center"><img src="https://quentium.fr/programs/Github/TwitchAFK.gif"></p>
 
 ## 📥 Installation
@@ -21,12 +20,20 @@
 - Download the 32bits compiled executable [here](https://quentium.fr/download.php?file=TwitchAFK-32.exe)!
 
 ## 🚀 Usage
-Run a cmd in the current folder with the files and type:
-```batch
-python TwitchAFK.pyw
+
+#### - With [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) -
+
+**WINDOWS:** Simply click twice on `TwitchAFK.pyw` or run using IDLE
+
+**LINUX:** Not tested yet for GUIs
+```bash
+python3 TwitchAFK.pyw
 ```
 
+#### - No [CLI](https://en.wikipedia.org/wiki/Command-line_interface) availaible for this software -
+
 ## 🤝 Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or create a new branch.\
 Please make sure to test your suggestions before commiting.
 
@@ -41,8 +48,8 @@ Please make sure to test your suggestions before commiting.
 - Twitch: [QuentiumYT](https://www.twitch.tv/QuentiumYT)
 - Steam: [QuentiumYT](https://steamcommunity.com/id/QuentiumYT)
 - Reddit: [QuentiumYT](https://www.reddit.com/user/QuentiumYT)
-- PayPal: [QuentinL](https://www.paypal.me/QLienhardt/1)
-- Contact: [Mail](mailto:support@quentium.fr?subject=[Web]%20Contact%20for%20...)
+- PayPal: [QuentinL](https://www.paypal.me/QuentiumYT/1)
+- Contact: [Mail](mailto:support@quentium.fr?subject=[Apps]%20Contact%20for%20...)
 
 Please ✰ this repository if this project helped you!
 
