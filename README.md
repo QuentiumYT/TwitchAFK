@@ -10,7 +10,7 @@
 # ✨ TwitchAFK
 
 >#### Allows you to stay AFK on Twitch without getting idle by sending a random message on a certain time. (initially created for CSGO majors for souvenir packages)
->###### Once you click the start button, you will have 15 seconds to click on the twitch chat section (place the cursor on it) and wait to see a random message appearingbash
+>###### Once you click the start button, you will have 15 seconds to click on the twitch chat section (place the cursor in it) and wait to see a random message appearing
 <p align="center"><img src="https://quentium.fr/+img/github/TwitchAFK.gif"></p>
 
 ## 📥 Installation
